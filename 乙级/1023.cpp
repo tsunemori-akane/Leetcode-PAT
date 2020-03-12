@@ -28,7 +28,7 @@ int main() {
 			s2 = s2 + '0';
 			r[0] --;
 		}
-		cout << s1[0] + s2 + s1.substr(1, t-r[0]-1);
+		cout << s1[0] + s2 + s1.substr(1, t-1);
 	}
 	return 0;
 }
