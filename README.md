@@ -1,3 +1,8 @@
-# 一些PAT题解
-自己写的加上参考大佬的
-2020/02/05疫情宅家中
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE en-export SYSTEM "http://xml.evernote.com/pub/evernote-export2.dtd">
+<en-export export-date="20200314T023951Z" application="Evernote/Windows" version="6.x">
+<note><title>PAT题解</title><content><![CDATA[<!DOCTYPE en-note SYSTEM 'http://xml.evernote.com/pub/enml2.dtd'><en-note><div style="font-size: 14px; margin: 0; padding: 0; width: 100%;"><h2 style="line-height: 160%; box-sizing: content-box; font-weight: 700; font-size: 34px; border-bottom: 1px solid #dbdbdb; color: #333;">PAT题解</h2>
+<ul style="line-height: 160%; box-sizing: content-box; display: block; list-style-type: disc; padding-left: 30px; margin: 6px 0 10px; color: #333;">
+<li style="line-height: 160%; box-sizing: content-box; position: relative;">一些更好的思路而自身苦手的参考至<a href="https://github.com/liuchuo" style="line-height: 160%; box-sizing: content-box; text-decoration: underline; color: #5286bc;">柳学姐</a>，会在题目中说明。</li>
+</ul>
+</div><center style='display:none !important;visibility:collapse !important;height:0 !important;white-space:nowrap;width:100%;overflow:hidden'>%23%23%20PAT%E9%A2%98%E8%A7%A3%0A*%20%E4%B8%80%E4%BA%9B%E6%9B%B4%E5%A5%BD%E7%9A%84%E6%80%9D%E8%B7%AF%E8%80%8C%E8%87%AA%E8%BA%AB%E8%8B%A6%E6%89%8B%E7%9A%84%E5%8F%82%E8%80%83%E8%87%B3%5B%E6%9F%B3%E5%AD%A6%E5%A7%90%5D(github.com%2Fliuchuo)%EF%BC%8C%E4%BC%9A%E5%9C%A8%E9%A2%98%E7%9B%AE%E4%B8%AD%E8%AF%B4%E6%98%8E%E3%80%82%0A</center></en-note>]]></content><created>20200314T022014Z</created><updated>20200314T023813Z</updated><note-attributes><author>tsunemori-akane</author><source>desktop.win</source><source-application>yinxiang.win32</source-application><content-class>yinxiang.markdown</content-class></note-attributes></note></en-export>
