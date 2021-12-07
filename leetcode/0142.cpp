@@ -11,7 +11,7 @@
  * k+m=i-a*n 又因为i=(m+b*n+k)-(m+a*n+k)=(b-a)*n为环周长整数倍则k+m为n的整数倍
  * 故相遇点为环起点
  */
-/**
+/*
  * Definition for singly-linked list.
  * struct ListNode {
  *     int val;
