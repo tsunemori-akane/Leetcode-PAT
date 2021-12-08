@@ -1,4 +1,5 @@
 /**
+ * https://en.wikipedia.org/wiki/Cycle_detection
  * 初始状态下,起点S,现设两个指针t和h,都指向S...t每前进1步，h前进2步
  * @求解环路的长度：
  * 上述算法刚判断出存在环C时，显然t和h位于同一节点，设其为节点M。
