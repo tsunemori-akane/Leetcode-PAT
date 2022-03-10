@@ -11,6 +11,7 @@
 | 双指针 | [167](https://github.com/tsunemori-akane/Leetcode-PAT/blob/master/leetcode/0167.cpp) / [412-floyd判圈](https://github.com/tsunemori-akane/Leetcode-PAT/tree/master/leetcode/0142) / [76-滑动窗口](https://github.com/tsunemori-akane/Leetcode-PAT/blob/master/leetcode/0076.cpp) / [633](https://github.com/tsunemori-akane/Leetcode-PAT/tree/master/leetcode/0633) |
 | 二分查找 | [69-求开方](https://github.com/tsunemori-akane/Leetcode-PAT/tree/master/leetcode/0069) / [34](https://github.com/tsunemori-akane/Leetcode-PAT/tree/master/leetcode/0034) / [81](https://github.com/tsunemori-akane/Leetcode-PAT/tree/master/leetcode/0081) |
 | 贪心 | []()  []() |
+| 头脑风暴 | [48](https://github.com/tsunemori-akane/Leetcode-PAT/tree/master/leetcode/0048) / [240](https://github.com/tsunemori-akane/Leetcode-PAT/tree/master/leetcode/0240) / [769](https://github.com/tsunemori-akane/Leetcode-PAT/blob/master/leetcode/0769.cpp) |
 
 
 | DA | 题号 |
