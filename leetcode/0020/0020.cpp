@@ -1,6 +1,5 @@
 #include <iostream>
 #include <stack>
-#include <cstring>
 
 using namespace std;
 
@@ -12,10 +11,12 @@ public:
         }
         stack<char> x;
         for(int i = 0; i < s.length(); ++i) {
-            if(!x.top()) {
+            if(!x.empty()) {
                 string str;
                 if( str + x.top() + s[i] == "{}" || str + x.top() + s[i] == "[]" || str + x.top() + s[i] == "()") {
                     x.pop();
+                } else {
+                    x.push(s[i]);
                 }
             } else {
                 x.push(s[i]);
