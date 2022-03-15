@@ -17,4 +17,4 @@
 | DA | 题号 |
 | --- | --- |
 | 数组 | [448](https://github.com/tsunemori-akane/Leetcode-PAT/tree/master/leetcode/0448) |
-| 栈 | [232](https://github.com/tsunemori-akane/Leetcode-PAT/tree/master/leetcode/0232) / [155](https://github.com/tsunemori-akane/Leetcode-PAT/tree/master/leetcode/155) |
+| 栈 | [232](https://github.com/tsunemori-akane/Leetcode-PAT/tree/master/leetcode/0232) / [155](https://github.com/tsunemori-akane/Leetcode-PAT/tree/master/leetcode/155) / [20](https://github.com/tsunemori-akane/Leetcode-PAT/tree/master/leetcode/0020) / [739](https://github.com/tsunemori-akane/Leetcode-PAT/tree/master/leetcode/0739)|
