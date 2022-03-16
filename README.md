@@ -4,7 +4,7 @@
 | 索引 | 题号 |
 | --- | --- |
 | 动态规划(一维) | [70](https://github.com/tsunemori-akane/Leetcode-PAT/tree/master/leetcode/0070) / [198](https://github.com/tsunemori-akane/Leetcode-PAT/tree/master/leetcode/0198) / [413](https://github.com/tsunemori-akane/Leetcode-PAT/tree/master/leetcode/0413) |
-| 动态规划(二维) | [64](https://github.com/tsunemori-akane/Leetcode-PAT/tree/master/leetcode/0064) |
+| 动态规划(二维) | [64](https://github.com/tsunemori-akane/Leetcode-PAT/tree/master/leetcode/0064) / [221](https://github.com/tsunemori-akane/Leetcode-PAT/tree/master/leetcode/0221) |
 | 排序 | [215-快速选择](https://github.com/tsunemori-akane/Leetcode-PAT/tree/master/leetcode/0215) / []() |
 | 搜索 | [695-DFS](https://github.com/tsunemori-akane/Leetcode-PAT/tree/master/leetcode/0695) / [547-DFS](https://github.com/tsunemori-akane/Leetcode-PAT/tree/master/leetcode/0547) |
 | 分治 | []() |
